@@ -1,12 +1,12 @@
 # Supplier_Analysis_report
 
-# Details of the Report
-# Data Setup:
+## Details of the Report
+### Data Setup:
   *	After importing the Excel file into Power BI, performed the cleansing of data in Power Query Editor and created data model as follows
   *	Used Power BI tips Theme Generator to copy-paste the HEX codes to generate and download a theme JSON file. But changed it again to custom theme. I was not happy with the color choice in this report but did not change with the amount of time I allocated to practice for this report. 
 
 
-# Data Model:
+### Data Model:
   *	Imported [SupplierData.xlsx] as a staging query and created references in new [Data Model] group.
   *	Separated fact table [SupplierQuality] and dimension tables [Category], [MaterialType], [DefectType], [Defect], [Plant], [Vendors] and [Date]
   *	Applied ETL to merge queries, remove duplicates, custom columns, round for necessary transformations
@@ -22,7 +22,7 @@
   
   ![](https://github.com/nancy-gl/Supplier_Analysis_report/blob/main/images/Data%20Model.png)
   
-# Visuals:
+### Visuals:
   *	added three report pages for [Overview], [Plant/Vendor], [Details]
   *	[Overview] page
       *	added report pages for [Overview], [Plant/Vendor], [Details]

@@ -43,7 +43,7 @@
       
       * The tooltip for vendor shows the rank of the vendor among all in terms of defect quantity and downtime measures as shown below
 
-      ![](https://github.com/nancy-gl/Supplier_Analysis_report/blob/main/images/Overview%20Tooltip.png)
+      ![](https://github.com/nancy-gl/Supplier_Analysis_report/blob/main/images/Overview-tooltip.png)
   
   * [Plant/Vendor] page:
       * Used muti-card visual to highlight the worst 3 plant based on defect quantity

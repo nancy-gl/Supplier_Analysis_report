@@ -4,7 +4,9 @@
 ### Data Setup:
   *	After importing the Excel file into Power BI, performed the cleansing of data in Power Query Editor and created data model as follows
   *	Used Power BI tips Theme Generator to copy-paste the HEX codes to generate and download a theme JSON file. But changed it again to custom theme. I was not happy with the color choice in this report but did not change with the amount of time I allocated to practice for this report. 
-
+  *	The snapshot of the report pages looks like below:
+  
+  ![](https://github.com/nancy-gl/Supplier_Analysis_report/blob/main/images/Combined.png)
 
 ### Data Model:
   *	Imported [SupplierData.xlsx] as a staging query and created references in new [Data Model] group.
@@ -64,5 +66,5 @@
 
       ![](https://github.com/nancy-gl/Supplier_Analysis_report/blob/main/images/Detail.png)
       
-   ## [Please click here to view the report on the web.](https://app.powerbi.com/reportEmbed?reportId=5386abc0-2e9b-45f7-bc83-198349748d0f&autoAuth=true&ctid=3fb43f9e-f396-473f-bdb4-7b116a3228ce&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9) 
+## [Click here to view the report on the web.](https://app.powerbi.com/reportEmbed?reportId=5386abc0-2e9b-45f7-bc83-198349748d0f&autoAuth=true&ctid=3fb43f9e-f396-473f-bdb4-7b116a3228ce&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9) 
 

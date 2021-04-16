@@ -66,5 +66,5 @@
 
       ![](https://github.com/nancy-gl/Supplier_Analysis_report/blob/main/images/Detail.png)
       
-## [Click here to view the report on the web.](https://app.powerbi.com/reportEmbed?reportId=5386abc0-2e9b-45f7-bc83-198349748d0f&autoAuth=true&ctid=3fb43f9e-f396-473f-bdb4-7b116a3228ce&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9) 
+## [Click here to view the report on the web.](https://app.powerbi.com/reportEmbed?reportId=e11c141f-efa1-4626-b3cd-f27bbc7ae9c6&autoAuth=true&ctid=3fb43f9e-f396-473f-bdb4-7b116a3228ce&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9) 
 

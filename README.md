@@ -1,6 +1,6 @@
-# Supplier_Analysis_report
+# Supplier Analysis Dashboard
 
-## Details of the Report
+## Details of the Dashboard
 ### Data Setup:
   *	After importing the Excel file into Power BI, performed the cleansing of data in Power Query Editor and created data model as follows
   *	Used Power BI tips Theme Generator to copy-paste the HEX codes to generate and download a theme JSON file. But changed it again to custom theme. I was not happy with the color choice in this report but did not change with the amount of time I allocated to practice for this report. 
